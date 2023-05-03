@@ -1,5 +1,6 @@
 {
-	"author": "Timothy Lansberry",
+	"author": "Timothy Lansberry <b@rubble.com> (http://barnyrubble.tumblr.com/)"
+}
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
